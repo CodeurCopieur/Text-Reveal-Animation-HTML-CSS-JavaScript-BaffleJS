@@ -1,1 +1,1 @@
-# Text Reveal Animation | HTML, CSS & JavaScript | BaffleJS
+## Text Reveal Animation | HTML, CSS & JavaScript | BaffleJS
